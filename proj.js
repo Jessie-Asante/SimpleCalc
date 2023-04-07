@@ -14,7 +14,9 @@
        });
     });
 
+    // we arw egayegiua
+
     equals.addEventListener('click', function(results){
-        
+
     })
 })();
